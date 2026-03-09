@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+        Base theme for the activity window before Compose takes over.
+        Compose handles all runtime theming; this provides the initial
+        window background and removes the default action bar.
+    -->
+    <style name="Theme.BudgetIndicator" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
