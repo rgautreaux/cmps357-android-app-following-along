@@ -141,12 +141,12 @@ The bottom bar:
 
 ### Progress
 
-- [ ] Screen layout composable created
-- [ ] `TextField` input bound to ViewModel
-- [ ] Computed values (`daysLeft`, `perDay`) displayed
-- [ ] Bottom color bar rendered with correct threshold colors
+- [x] Screen layout composable created
+- [x] `TextField` input bound to ViewModel
+- [x] Computed values (`daysLeft`, `perDay`) displayed
+- [x] Bottom color bar rendered with correct threshold colors
 
-**Status: 🔲 Not Started**
+**Status: ✅ Complete**
 
 ---
 
@@ -170,12 +170,12 @@ Dependency injection is optional for a small project.
 
 ### Progress
 
-- [ ] `PreferencesRepository.kt` created
-- [ ] DataStore dependency added to `app/build.gradle.kts`
-- [ ] Save and load balance operations implemented
-- [ ] Repository integrated into `BudgetViewModel`
+- [x] `PreferencesRepository.kt` created
+- [x] DataStore dependency added to `app/build.gradle.kts`
+- [x] Save and load balance operations implemented
+- [x] Repository integrated into `BudgetViewModel`
 
-**Status: 🔲 Not Started**
+**Status: ✅ Complete**
 
 ---
 

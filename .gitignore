@@ -1,0 +1,19 @@
+# IntelliJ IDEA / Android Studio
+.idea/
+!.idea/.gitignore
+*.iml
+
+# Gradle
+.gradle/
+build/
+
+# Android
+local.properties
+*.apk
+*.keystore
+/app/release/
+/captures/
+/app/build/
+
+# macOS
+.DS_Store
